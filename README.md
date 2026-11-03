@@ -19,6 +19,8 @@ Indicators, not proof. A finding means "worth a look", not "compromised".
 Ubuntu 22.04 or newer. Python 3.10+.
 
 ```bash
-git clone https://github.com/Zolo-sys-boop/vesper.git
-cd vesper
-chmod +x vesper.py
+git clone https://github.com/Zolo-sys-boop/Veeper-multi-tool.git
+
+cd Veeper-multi-tool
+
+python3 vesper.py
