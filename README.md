@@ -19,6 +19,6 @@ Indicators, not proof. A finding means "worth a look", not "compromised".
 Ubuntu 22.04 or newer. Python 3.10+.
 
 ```bash
-git clone https://github.com/YOURNAME/vesper.git
+git clone https://github.com/Zolo-sys-boop/vesper.git
 cd vesper
 chmod +x vesper.py
