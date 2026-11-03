@@ -19,7 +19,7 @@ Indicators, not proof. A finding means "worth a look", not "compromised".
 Ubuntu 22.04 or newer. Python 3.10+.
 
 ```bash
-git clone https://github.com/Zolo-sys-boop/Veeper-multi-tool.git
+git clone https://github.com/Zolo-sys-boop/VESPER — Linux Network Reconnaissance & Security Toolkit.git
 
 cd Veeper-multi-tool
 
